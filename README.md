@@ -39,7 +39,7 @@ python train_elasticnet.py
 
 ---
 
-## use mlflow servtracking server ([docs](https://mlflow.org/docs/latest/tracking.html))
+## use mlflow tracking server ([docs](https://mlflow.org/docs/latest/tracking.html))
 
 - mlflow tracking server has two components for storage: a backend store and an artifact store
 
